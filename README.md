@@ -1,6 +1,6 @@
-# <img src="https://cdn.discordapp.com/attachments/901323789890093056/1121482768749187222/Key.PNG" height="50"> Fortnite-AesConverter
+# <img src="https://github.com/djlorenzouasset/Fortnite-AesConverter/blob/main/.github/Key.PNG" height="50"> Fortnite-AesConverter
 
-An C# program that allow you to convert a Fortnite KeyChain to an AES Key and vice versa.
+A C# program that allow you to convert a Fortnite KeyChain to an AES Key and vice versa.
 
 > ⚠️ If you encounter problems, I ask you to open an issue in the repository so I can fix it.
 
